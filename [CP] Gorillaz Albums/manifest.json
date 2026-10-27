@@ -1,0 +1,14 @@
+{
+  "Name": "[CP] Gorillaz Albums",
+  "Author": "Vinilla",
+  "Version": "1.0.0",
+  "Description": "Content Patcher pack that adds Gorillaz' album covers as new furniture.",
+  "UniqueID": "Vinilla.GorillazAlbumsCP",
+  "UpdateKeys": [
+    "Nexus:53247@CP"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "MinimumApiVersion": "4.0.0"
+}

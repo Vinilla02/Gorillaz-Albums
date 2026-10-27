@@ -1,0 +1,99 @@
+{
+  "CollectiveNames": [
+    "Calico Falls",
+    "'1000 Years From Now'",
+    "'A Night On Eco-Hill'",
+    "'Boat'",
+    "'Burnt Offering'",
+    "'Clouds'",
+    "'Frozen Dreams'",
+    "'Highway 89'",
+    "'Kitemaster '95'",
+    "'Land Of Clay'",
+    "'My First Painting'",
+    "'Pathways'",
+    "'Physics 101'",
+    "'Portrait Of A Mermaid'",
+    "'Primal Motion'",
+    "'Red Eagle'",
+    "'Solar Kingdom'",
+    "'Spires'",
+    "'Sun #44'",
+    "'The Muzzamaroo'",
+    "'Three Trees'",
+    "'Tropical Fish #173'",
+    "'Vanilla Villa'",
+    "'VGA Paradise'",
+    "'Vista'",
+    "'Volcano' Photo",
+    "Cloud Decal",
+    "Foliage Print",
+    "Miner's Crest",
+    "Pirate Flag",
+    "Pyramid Decal",
+    "Strawberry Decal",
+    "Wall Basket",
+    "Wallflower Pal",
+    "World Map"
+  ],
+  "Type": "Furniture",
+  "TextureWidth": 32,
+  "TextureHeight": 32,
+  "Keywords": [ "gorillaz", "damon", "albarn", "gorillas", "album" ],
+  "ManualVariations": [
+    {
+      "Id": 0,
+      "ChanceWeight": 0,
+      "Name": "Gorillaz",
+      "Keywords": [ "gorillas" ]
+    },
+    {
+      "Id": 1,
+      "ChanceWeight": 0,
+      "Name": "Demon Days",
+      "Keywords": [ "" ]
+    },
+    {
+      "Id": 2,
+      "ChanceWeight": 0,
+      "Name": "Plastic Beach",
+      "Keywords": [ "" ]
+    },
+    {
+      "Id": 3,
+      "ChanceWeight": 0,
+      "Name": "The Fall",
+      "Keywords": [ "" ]
+    },
+    {
+      "Id": 4,
+      "ChanceWeight": 0,
+      "Name": "Humanz",
+      "Keywords": [ "humans" ]
+    },
+    {
+      "Id": 5,
+      "ChanceWeight": 0,
+      "Name": "The Now Now",
+      "Keywords": [ "" ]
+    },
+    {
+      "Id": 6,
+      "ChanceWeight": 0,
+      "Name": "Song Machine, Season One: Strange Timez",
+      "Keywords": [ "song machine season 1 strange timez", "song machine season one strange times", "song machine season 1 strange times" ]
+    },
+    {
+      "Id": 7,
+      "ChanceWeight": 0,
+      "Name": "Cracker Island",
+      "Keywords": [ "" ]
+    },
+    {
+      "Id": 8,
+      "ChanceWeight": 0,
+      "Name": "The Mountain",
+      "Keywords": [ "" ]
+    },
+  ]
+}

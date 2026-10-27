@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "LogName": "Add furniture",
+      "Action": "EditData",
+      "Target": "Data/Furniture",
+      "Entries": {
+        "{{ModId}}_{{AlbumName}}": "{{ModId}}_{{AlbumName}}/painting/2 2/2 2/1/500/-1/{{i18n:{{AlbumName}}.DisplayName}}/{{Index}}/TileSheets\\Vinilla.GorillazAlbumsCP/{{RandomSale}}/collection_vinillagorillaz collection_vinillaalbums"
+      }
+    }
+  ]
+}

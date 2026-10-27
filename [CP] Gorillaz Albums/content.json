@@ -1,0 +1,105 @@
+{
+  "Format": "2.8.0",
+  "DynamicTokens": [
+    {
+      "Name": "RandomSale",
+      "Value": "false"
+    },
+    {
+      "Name": "RandomSale",
+      "Value": "true",
+      "When": {
+        "HasMod": "Vinilla.AlbumCatalogue"
+      }
+    }
+  ],
+  "Changes": [
+    {
+      "LogName": "Load spritesheet",
+      "Action": "Load",
+      "Target": "TileSheets/{{ModId}}",
+      "FromFile": "Assets/Spritesheet.png"
+    },
+    {
+      "LogName": "Local tokens - Gorillaz (self-titled)",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "Gorillaz",
+        "Index": "0"
+      }
+    },
+    {
+      "LogName": "Local tokens - Demon Days",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "DemonDays",
+        "Index": "2"
+      }
+    },
+    {
+      "LogName": "Local tokens - Plastic Beach",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "PlasticBeach",
+        "Index": "4"
+      }
+    },
+    {
+      "LogName": "Local tokens - The Fall",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "Fall",
+        "Index": "6"
+      }
+    },
+    {
+      "LogName": "Local tokens - Humanz",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "Humanz",
+        "Index": "8"
+      }
+    },
+    {
+      "LogName": "Local tokens - The Now Now",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "NowNow",
+        "Index": "20"
+      }
+    },
+    {
+      "LogName": "Local tokens - Song Machine, Season One: StrangeTimez",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "SongMachine",
+        "Index": "22"
+      }
+    },
+    {
+      "LogName": "Local tokens - Cracker Island",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "CrackerIsland",
+        "Index": "24"
+      }
+    },
+    {
+      "LogName": "Local tokens - The Mountain",
+      "Action": "Include",
+      "FromFile": "Assets/AlbumTemplate.json",
+      "LocalTokens": {
+        "AlbumName": "Mountain",
+        "Index": "26"
+      }
+    }
+  ]
+}

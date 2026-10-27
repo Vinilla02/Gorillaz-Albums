@@ -1,0 +1,14 @@
+{
+  "Name": "[AT] Gorillaz Albums",
+  "Author": "Vinilla",
+  "Version": "1.0.0",
+  "Description": "Alternative Textures pack that adds Gorillaz' album covers.",
+  "UniqueID": "Vinilla.GorillazAlbumsAT",
+  "UpdateKeys": [
+    "Nexus:53247@AT"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "6.9.1"
+  }
+}
